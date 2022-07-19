@@ -1,4 +1,4 @@
-<a href="https://heroku.com/deploy?template=https://github.com/HMTD-Links/File-Store-Bot-V3">
+<a href="https://heroku.com/deploy?template=https://github.com/KarthikTamil7/File-Store-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
